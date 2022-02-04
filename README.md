@@ -1,7 +1,7 @@
 ### 
 
 - Buscando vaga Front-end e/ou Back-end
-- Estudando JavaScript 
+- Estudando Responsividade e SCSS 
 
 <div align="center">
   <a href="https://github.com/Danielhu3">
