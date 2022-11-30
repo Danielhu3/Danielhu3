@@ -1,7 +1,8 @@
 ### 
 
-- Buscando vaga Front-end e/ou Back-end
-- Estudando React
+- Buscando vaga Front-end
+- Estudando React, TypeScript e Styled Components
+- Próximos tópicos : Redux e NextJS
 
 <div align="center">
   <a href="https://github.com/Danielhu3">
